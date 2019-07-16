@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "833787076289",
+    "firebase_url": "https://kotlin-firebase-9c8dd.firebaseio.com",
+    "project_id": "kotlin-firebase-9c8dd",
+    "storage_bucket": "kotlin-firebase-9c8dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833787076289:android:bbf044955b32a094",
+        "android_client_info": {
+          "package_name": "com.elhazent.picodiploma.driverojol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833787076289-776undekb23uqnkfu6ls1d4nhvtpicf2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elhazent.picodiploma.driverojol",
+            "certificate_hash": "89e95a32204792c937965c47d7c7d4f44abbfc34"
+          }
+        },
+        {
+          "client_id": "833787076289-kn5kjfq1dgsqjmn9qi9dlcqhucl0rg4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7liie07Z_oKdmIpuB3ZRQ8lw3Cti9kF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833787076289-kn5kjfq1dgsqjmn9qi9dlcqhucl0rg4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833787076289:android:48352119c717b100",
+        "android_client_info": {
+          "package_name": "com.elhazent.picodiploma.driveronline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833787076289-35910ul3rs45q0uspd2ngv1q8hlab9v7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elhazent.picodiploma.driveronline",
+            "certificate_hash": "89e95a32204792c937965c47d7c7d4f44abbfc34"
+          }
+        },
+        {
+          "client_id": "833787076289-kn5kjfq1dgsqjmn9qi9dlcqhucl0rg4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7liie07Z_oKdmIpuB3ZRQ8lw3Cti9kF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833787076289-kn5kjfq1dgsqjmn9qi9dlcqhucl0rg4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833787076289:android:c65ab7c67138fbfd",
+        "android_client_info": {
+          "package_name": "com.elhazent.picodiploma.online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833787076289-uujc1f37hr5hpohm520soon3n3gurifl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elhazent.picodiploma.online",
+            "certificate_hash": "89e95a32204792c937965c47d7c7d4f44abbfc34"
+          }
+        },
+        {
+          "client_id": "833787076289-kn5kjfq1dgsqjmn9qi9dlcqhucl0rg4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7liie07Z_oKdmIpuB3ZRQ8lw3Cti9kF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833787076289-kn5kjfq1dgsqjmn9qi9dlcqhucl0rg4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
